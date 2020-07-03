@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="qxmlstyle.xsl"?>
 <!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
-<propertyList date="2020-06-26-04:35:33" username="xmluser" password="xmlpassword">
+<propertyList date="2020-07-03-03:30:59" username="xmluser" password="xmlpassword">
 	<!-- Current listing -->
-	<residential modTime="2020-06-26-04:36:15" status="current">
+	<residential modTime="2020-07-03-03:31:30" status="current">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1590</uniqueID>
 		<authority value="exclusive"/>
@@ -66,7 +66,7 @@
 - LOCAL BUILDER</description>
 		<features>
 			<bedrooms>4</bedrooms>
-			<bathrooms>2</bathrooms>
+			<bathrooms>2.0</bathrooms>
 			<garages>2</garages>
       		<remoteGarage>no</remoteGarage>
       		<secureParking>no</secureParking>
@@ -101,20 +101,20 @@
 		<externalLink href="http://www.qcoasthomes.com.au"/>		
 		<videoLink id="qcoast_1590_vid1" href=""/>
 		<objects>
-			<img id="m" modTime="2020-06-26-04:36:15" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage1590_Waverley215_Glhs335_.jpg" format="jpg"/>
-			<img id="a" modTime="2020-06-26-04:36:15" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1590_siting.jpg" format="jpg"/>	
-			<floorplan id="1" modTime="2020-06-26-04:36:15" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1590_fp1.jpg" format="jpg"/>
-			<document id="3" modTime="2020-06-26-04:36:15" title="Brochure" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1590.pdf" format="pdf"/>						
+			<img id="m" modTime="2020-07-03-03:31:30" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage1590_Waverley215_Glhs335_.jpg" format="jpg"/>
+			<img id="a" modTime="2020-07-03-03:31:30" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1590_siting.jpg" format="jpg"/>	
+			<floorplan id="1" modTime="2020-07-03-03:31:30" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1590_fp1.jpg" format="jpg"/>
+			<document id="3" modTime="2020-07-03-03:31:30" title="Brochure" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1590.pdf" format="pdf"/>						
 			
 		</objects>
 		<additionalFields>
 	<estateLogo>	
-		<img id="estate_logo" modTime="2020-06-26-04:36:15" url="http://qcoast.geosite.com.au/staging/packages/qcoast/" format="jpg"/>	
+		<img id="estate_logo" modTime="2020-07-03-03:31:30" url="http://qcoast.geosite.com.au/staging/packages/qcoast/" format="jpg"/>	
 	</estateLogo>	
 	</additionalFields>
 	</residential>
 	<!-- Current listing -->
-	<residential modTime="2020-06-26-04:36:16" status="current">
+	<residential modTime="2020-07-03-03:31:30" status="current">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1600</uniqueID>
 		<authority value="exclusive"/>
@@ -177,7 +177,7 @@
 - LOCAL BUILDER</description>
 		<features>
 			<bedrooms>4</bedrooms>
-			<bathrooms>2</bathrooms>
+			<bathrooms>2.0</bathrooms>
 			<garages>2</garages>
       		<remoteGarage>no</remoteGarage>
       		<secureParking>no</secureParking>
@@ -212,20 +212,20 @@
 		<externalLink href="http://www.qcoasthomes.com.au"/>		
 		<videoLink id="qcoast_1600_vid1" href=""/>
 		<objects>
-			<img id="m" modTime="2020-06-26-04:36:16" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage1600_Byron200_335_.jpg" format="jpg"/>
-			<img id="a" modTime="2020-06-26-04:36:16" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1600_siting.jpg" format="jpg"/>	
-			<floorplan id="1" modTime="2020-06-26-04:36:16" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1600_fp1.jpg" format="jpg"/>
-			<document id="3" modTime="2020-06-26-04:36:16" title="Brochure" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1600.pdf" format="pdf"/>						
+			<img id="m" modTime="2020-07-03-03:31:30" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage1600_Byron200_335_.jpg" format="jpg"/>
+			<img id="a" modTime="2020-07-03-03:31:30" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1600_siting.jpg" format="jpg"/>	
+			<floorplan id="1" modTime="2020-07-03-03:31:30" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1600_fp1.jpg" format="jpg"/>
+			<document id="3" modTime="2020-07-03-03:31:30" title="Brochure" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1600.pdf" format="pdf"/>						
 			
 		</objects>
 		<additionalFields>
 	<estateLogo>	
-		<img id="estate_logo" modTime="2020-06-26-04:36:16" url="http://qcoast.geosite.com.au/staging/packages/qcoast/" format="jpg"/>	
+		<img id="estate_logo" modTime="2020-07-03-03:31:30" url="http://qcoast.geosite.com.au/staging/packages/qcoast/" format="jpg"/>	
 	</estateLogo>	
 	</additionalFields>
 	</residential>
 	<!-- Current listing -->
-	<residential modTime="2020-06-26-04:36:34" status="current">
+	<residential modTime="2020-07-03-03:31:46" status="current">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1754</uniqueID>
 		<authority value="exclusive"/>
@@ -323,20 +323,20 @@
 		<externalLink href="http://www.qcoasthomes.com.au"/>		
 		<videoLink id="qcoast_1754_vid1" href=""/>
 		<objects>
-			<img id="m" modTime="2020-06-26-04:36:34" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage1754_Burliegh205_GLHS335_.jpg" format="jpg"/>
-			<img id="a" modTime="2020-06-26-04:36:34" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1754_siting.jpg" format="jpg"/>	
-			<floorplan id="1" modTime="2020-06-26-04:36:34" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1754_fp1.jpg" format="jpg"/>
-			<document id="3" modTime="2020-06-26-04:36:34" title="Brochure" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1754.pdf" format="pdf"/>						
+			<img id="m" modTime="2020-07-03-03:31:46" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage1754_Burliegh205_GLHS335_.jpg" format="jpg"/>
+			<img id="a" modTime="2020-07-03-03:31:46" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1754_siting.jpg" format="jpg"/>	
+			<floorplan id="1" modTime="2020-07-03-03:31:46" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1754_fp1.jpg" format="jpg"/>
+			<document id="3" modTime="2020-07-03-03:31:46" title="Brochure" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1754.pdf" format="pdf"/>						
 			
 		</objects>
 		<additionalFields>
 	<estateLogo>	
-		<img id="estate_logo" modTime="2020-06-26-04:36:34" url="http://qcoast.geosite.com.au/staging/packages/qcoast/" format="jpg"/>	
+		<img id="estate_logo" modTime="2020-07-03-03:31:46" url="http://qcoast.geosite.com.au/staging/packages/qcoast/" format="jpg"/>	
 	</estateLogo>	
 	</additionalFields>
 	</residential>
 	<!-- Current listing -->
-	<residential modTime="2020-06-26-04:36:40" status="current">
+	<residential modTime="2020-07-03-03:31:55" status="current">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1812</uniqueID>
 		<authority value="exclusive"/>
@@ -399,7 +399,7 @@
 - LOCAL BUILDER</description>
 		<features>
 			<bedrooms>4</bedrooms>
-			<bathrooms>2</bathrooms>
+			<bathrooms>2.0</bathrooms>
 			<garages>2</garages>
       		<remoteGarage>no</remoteGarage>
       		<secureParking>no</secureParking>
@@ -434,20 +434,20 @@
 		<externalLink href="http://www.qcoasthomes.com.au"/>		
 		<videoLink id="qcoast_1812_vid1" href=""/>
 		<objects>
-			<img id="m" modTime="2020-06-26-04:36:40" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage1812_MIAMI240_335_.jpg" format="jpg"/>
-			<img id="a" modTime="2020-06-26-04:36:40" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1812_siting.jpg" format="jpg"/>	
-			<floorplan id="1" modTime="2020-06-26-04:36:40" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1812_fp1.jpg" format="jpg"/>
-			<document id="3" modTime="2020-06-26-04:36:40" title="Brochure" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1812.pdf" format="pdf"/>						
+			<img id="m" modTime="2020-07-03-03:31:55" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage1812_MIAMI240_335_.jpg" format="jpg"/>
+			<img id="a" modTime="2020-07-03-03:31:55" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1812_siting.jpg" format="jpg"/>	
+			<floorplan id="1" modTime="2020-07-03-03:31:55" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1812_fp1.jpg" format="jpg"/>
+			<document id="3" modTime="2020-07-03-03:31:55" title="Brochure" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1812.pdf" format="pdf"/>						
 			
 		</objects>
 		<additionalFields>
 	<estateLogo>	
-		<img id="estate_logo" modTime="2020-06-26-04:36:40" url="http://qcoast.geosite.com.au/staging/packages/qcoast/https://qcoast.geosite.com.au/staging/images/estates/Killara Estate_QLD.jpg" format="jpg"/>	
+		<img id="estate_logo" modTime="2020-07-03-03:31:55" url="http://qcoast.geosite.com.au/staging/packages/qcoast/https://qcoast.geosite.com.au/staging/images/estates/Killara Estate_QLD.jpg" format="jpg"/>	
 	</estateLogo>	
 	</additionalFields>
 	</residential>
 	<!-- Current listing -->
-	<residential modTime="2020-06-26-04:36:40" status="current">
+	<residential modTime="2020-07-03-03:31:55" status="current">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1813</uniqueID>
 		<authority value="exclusive"/>
@@ -510,7 +510,7 @@
 - LOCAL BUILDER</description>
 		<features>
 			<bedrooms>4</bedrooms>
-			<bathrooms>2</bathrooms>
+			<bathrooms>2.0</bathrooms>
 			<garages>2</garages>
       		<remoteGarage>no</remoteGarage>
       		<secureParking>no</secureParking>
@@ -545,20 +545,20 @@
 		<externalLink href="http://www.qcoasthomes.com.au"/>		
 		<videoLink id="qcoast_1813_vid1" href=""/>
 		<objects>
-			<img id="m" modTime="2020-06-26-04:36:40" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage1813_stradbroke234_Grhs335_.jpg" format="jpg"/>
-			<img id="a" modTime="2020-06-26-04:36:40" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1813_siting.jpg" format="jpg"/>	
-			<floorplan id="1" modTime="2020-06-26-04:36:40" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1813_fp1.jpg" format="jpg"/>
-			<document id="3" modTime="2020-06-26-04:36:40" title="Brochure" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1813.pdf" format="pdf"/>						
+			<img id="m" modTime="2020-07-03-03:31:55" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage1813_stradbroke234_Grhs335_.jpg" format="jpg"/>
+			<img id="a" modTime="2020-07-03-03:31:55" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1813_siting.jpg" format="jpg"/>	
+			<floorplan id="1" modTime="2020-07-03-03:31:55" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1813_fp1.jpg" format="jpg"/>
+			<document id="3" modTime="2020-07-03-03:31:55" title="Brochure" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1813.pdf" format="pdf"/>						
 			
 		</objects>
 		<additionalFields>
 	<estateLogo>	
-		<img id="estate_logo" modTime="2020-06-26-04:36:40" url="http://qcoast.geosite.com.au/staging/packages/qcoast/https://qcoast.geosite.com.au/staging/images/estates/Killara Estate_QLD.jpg" format="jpg"/>	
+		<img id="estate_logo" modTime="2020-07-03-03:31:55" url="http://qcoast.geosite.com.au/staging/packages/qcoast/https://qcoast.geosite.com.au/staging/images/estates/Killara Estate_QLD.jpg" format="jpg"/>	
 	</estateLogo>	
 	</additionalFields>
 	</residential>
 	<!-- Current listing -->
-	<residential modTime="2020-06-26-04:36:42" status="current">
+	<residential modTime="2020-07-03-03:31:56" status="current">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1830</uniqueID>
 		<authority value="exclusive"/>
@@ -621,7 +621,7 @@
 - LOCAL BUILDER</description>
 		<features>
 			<bedrooms>4</bedrooms>
-			<bathrooms>2</bathrooms>
+			<bathrooms>2.0</bathrooms>
 			<garages>2</garages>
       		<remoteGarage>no</remoteGarage>
       		<secureParking>no</secureParking>
@@ -656,131 +656,20 @@
 		<externalLink href="http://www.qcoasthomes.com.au"/>		
 		<videoLink id="qcoast_1830_vid1" href=""/>
 		<objects>
-			<img id="m" modTime="2020-06-26-04:36:42" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage1830_AIRLIE173_335_.jpg" format="jpg"/>
-			<img id="a" modTime="2020-06-26-04:36:42" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1830_siting.jpg" format="jpg"/>	
-			<floorplan id="1" modTime="2020-06-26-04:36:42" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1830_fp1.jpg" format="jpg"/>
-			<document id="3" modTime="2020-06-26-04:36:42" title="Brochure" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1830.pdf" format="pdf"/>						
+			<img id="m" modTime="2020-07-03-03:31:56" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage1830_AIRLIE173_335_.jpg" format="jpg"/>
+			<img id="a" modTime="2020-07-03-03:31:56" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1830_siting.jpg" format="jpg"/>	
+			<floorplan id="1" modTime="2020-07-03-03:31:56" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1830_fp1.jpg" format="jpg"/>
+			<document id="3" modTime="2020-07-03-03:31:56" title="Brochure" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1830.pdf" format="pdf"/>						
 			
 		</objects>
 		<additionalFields>
 	<estateLogo>	
-		<img id="estate_logo" modTime="2020-06-26-04:36:42" url="http://qcoast.geosite.com.au/staging/packages/qcoast/" format="jpg"/>	
+		<img id="estate_logo" modTime="2020-07-03-03:31:56" url="http://qcoast.geosite.com.au/staging/packages/qcoast/" format="jpg"/>	
 	</estateLogo>	
 	</additionalFields>
 	</residential>
 	<!-- Current listing -->
-	<residential modTime="2020-06-26-04:36:42" status="current">
-		<agentID>qcoast</agentID>
-		<uniqueID>qcoast_1831</uniqueID>
-		<authority value="exclusive"/>
-		<underOffer value="no"/>
-        <newConstruction>1</newConstruction>
-        <isHomeLandPackage>1</isHomeLandPackage>    
-		<listingAgent>
-			<name></name>
-			<telephone type="BH"></telephone>
-			<email></email>			
-		</listingAgent>
-		<portals>
-			<includePortal>1</includePortal>
-		</portals>
-		<price display="yes">462102</price>
-		<priceView>$462,102</priceView>
-		<address display="yes">
-			<subNumber></subNumber>
-			<streetNumber>Lot 20</streetNumber>
-			<street>Haven Drive Haven Hill - Holmview</street>
-			<suburb display="yes">LOGAN VILLAGE (4207)</suburb>
-			<state>QLD</state>
-			<postcode></postcode>
-			<country>AUS</country>
-		</address>
-		<municipality></municipality>
-		
-		<category name="House"/>
-		<headline>House &amp; Land - Lot 20 Haven Drive Haven Hill - Holmview - Noosa 180</headline>
-		<description>
-
-- Full Turn key, Fixed Price, No Hidden Extras**
-- Facade:  Brick veneer, render (if applicable), with multiple materials
-- Driveway:  Exposed aggregate
-- Porch &amp; Alfresco: Tiles
-- Ceiling Insulation
-- Kitchen Bench &amp; Vanity Tops: Stone
-- Air Conditioning: Split system to living room and bedroom 1
-- Ceiling Fans: Living areas &amp; bedrooms
-- Outdoor Living Area: Under main roof
-- Lighting Package: LED Downlights to living areas, fluoros to kitchen, bathrooms &amp; garage
-- Appliances: 900mm Stainless steel incl. dishwasher
-- Hotwater: Rheem 26 Metro Gas HWS
-- Amplimesh Grille Security Screens: To sliding windows, hinged front door, laundry door, and sliding doors only (excludes garage doors, stacker doors &amp; bi-fold doors)
-- Wardrobes: Chrome mirror sliding to bedrooms (where specified), white vinyl sliders with aluminium frames to linen (where specified)
-- Tapware: CP Mixers &amp; hand showers
-- Internal Door Handles: Lever
-- Window Coverings: Vertical or roller blinds to windows and sliding doors, (excl wet areas)
-- Floor coverings: Tile &amp; carpet
-- Letterbox: Polytek
-- Clothesline: Wall mounted
-- Landscaping: Full package (excluding acreage blocks)
-- Termite Barrier: Reticulation system
-- Fencing: 1800mm high with returns to house &amp; gate (excluding acreage blocks)
-- House cleaned by a professional cleaning service
-- 25 year structural guarantee***
-- DIAMOND INCLUSIONS
-- BUILD CONTRACTS ISSUED IN 24HRS
-- 4 WEEK TIMEFRAME FROM FINANCE APPROVAL TO BA APPROVAL - subject to land registration
-- LOCAL BUILDER</description>
-		<features>
-			<bedrooms>4</bedrooms>
-			<bathrooms>2</bathrooms>
-			<garages>2</garages>
-      		<remoteGarage>no</remoteGarage>
-      		<secureParking>no</secureParking>
-			<airConditioning>0</airConditioning>
-			<alarmSystem>0</alarmSystem>
-			<vacuumSystem>no</vacuumSystem>
-			<intercom>no</intercom>
-      		<courtyard>no</courtyard>
-      		<outdoorEnt>no</outdoorEnt>
-      		<fullyFenced>no</fullyFenced>
-			<heating type="other"/>
-			<hotWaterService type="gas"/>
-			<otherFeatures>Full Turn key, Fixed Price, No Hidden Extras**,Facade:  Brick veneer, render (if applicable), with multiple materials,Driveway:  Exposed aggregate,Porch &amp; Alfresco: Tiles,Ceiling Insulation,Kitchen Bench &amp; Vanity Tops: Stone,Air Conditioning: Split system to living room and bedroom 1,Ceiling Fans: Living areas &amp; bedrooms,Outdoor Living Area: Under main roof,Lighting Package: LED Downlights to living areas, fluoros to kitchen, bathrooms &amp; garage,Appliances: 900mm Stainless steel incl. dishwasher,Hotwater: Rheem 26 Metro Gas HWS,Amplimesh Grille Security Screens: To sliding windows, hinged front door, laundry door, and sliding doors only (excludes garage doors, stacker doors &amp; bi-fold doors),Wardrobes: Chrome mirror sliding to bedrooms (where specified), white vinyl sliders with aluminium frames to linen (where specified),Tapware: CP Mixers &amp; hand showers,Internal Door Handles: Lever,Window Coverings: Vertical or roller blinds to windows and sliding doors, (excl wet areas),Floor coverings: Tile &amp; carpet,Letterbox: Polytek,Clothesline: Wall mounted,Landscaping: Full package (excluding acreage blocks),Termite Barrier: Reticulation system,Fencing: 1800mm high with returns to house &amp; gate (excluding acreage blocks),House cleaned by a professional cleaning service,25 year structural guarantee***,DIAMOND INCLUSIONS,BUILD CONTRACTS ISSUED IN 24HRS,4 WEEK TIMEFRAME FROM FINANCE APPROVAL TO BA APPROVAL - subject to land registration,LOCAL BUILDER</otherFeatures>
-		</features>
-		<landDetails>
-			<area unit="squareMeter">416.05</area>
-			<frontage unit="meter">13.00</frontage>
-			<depth unit="meter" side="rear">32.00</depth>
-			<crossOver value="left"/>
-		</landDetails>
-		<buildingDetails>
-			<name>Noosa 180</name>
-			<area unit="squareMeter">180</area>
-			<newlyBuilt value="yes"/>
-                        <energyRating>6.0</energyRating>
-                </buildingDetails>
-		<vendorDetails>
-			<name></name>
-			<telephone type="BH"></telephone>
-			<telephone type="mobile"></telephone>
-		</vendorDetails>
-		<externalLink href="http://www.qcoasthomes.com.au"/>		
-		<videoLink id="qcoast_1831_vid1" href=""/>
-		<objects>
-			<img id="m" modTime="2020-06-26-04:36:42" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage1831_Noosa180_335_.jpg" format="jpg"/>
-			<img id="a" modTime="2020-06-26-04:36:42" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1831_siting.jpg" format="jpg"/>	
-			<floorplan id="1" modTime="2020-06-26-04:36:42" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1831_fp1.jpg" format="jpg"/>
-			<document id="3" modTime="2020-06-26-04:36:42" title="Brochure" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1831.pdf" format="pdf"/>						
-			
-		</objects>
-		<additionalFields>
-	<estateLogo>	
-		<img id="estate_logo" modTime="2020-06-26-04:36:42" url="http://qcoast.geosite.com.au/staging/packages/qcoast/" format="jpg"/>	
-	</estateLogo>	
-	</additionalFields>
-	</residential>
-	<!-- Current listing -->
-	<residential modTime="2020-06-26-04:36:42" status="current">
+	<residential modTime="2020-07-03-03:31:58" status="current">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1836</uniqueID>
 		<authority value="exclusive"/>
@@ -843,7 +732,7 @@
 - LOCAL BUILDER</description>
 		<features>
 			<bedrooms>4</bedrooms>
-			<bathrooms>2</bathrooms>
+			<bathrooms>2.0</bathrooms>
 			<garages>2</garages>
       		<remoteGarage>no</remoteGarage>
       		<secureParking>no</secureParking>
@@ -878,20 +767,20 @@
 		<externalLink href="http://www.qcoasthomes.com.au"/>		
 		<videoLink id="qcoast_1836_vid1" href=""/>
 		<objects>
-			<img id="m" modTime="2020-06-26-04:36:42" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage1836_Miami218_Glhs335_.jpg" format="jpg"/>
-			<img id="a" modTime="2020-06-26-04:36:42" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1836_siting.jpg" format="jpg"/>	
-			<floorplan id="1" modTime="2020-06-26-04:36:42" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1836_fp1.jpg" format="jpg"/>
-			<document id="3" modTime="2020-06-26-04:36:42" title="Brochure" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1836.pdf" format="pdf"/>						
+			<img id="m" modTime="2020-07-03-03:31:58" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage1836_Miami218_Glhs335_.jpg" format="jpg"/>
+			<img id="a" modTime="2020-07-03-03:31:58" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1836_siting.jpg" format="jpg"/>	
+			<floorplan id="1" modTime="2020-07-03-03:31:58" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1836_fp1.jpg" format="jpg"/>
+			<document id="3" modTime="2020-07-03-03:31:58" title="Brochure" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1836.pdf" format="pdf"/>						
 			
 		</objects>
 		<additionalFields>
 	<estateLogo>	
-		<img id="estate_logo" modTime="2020-06-26-04:36:42" url="http://qcoast.geosite.com.au/staging/packages/qcoast/" format="jpg"/>	
+		<img id="estate_logo" modTime="2020-07-03-03:31:58" url="http://qcoast.geosite.com.au/staging/packages/qcoast/" format="jpg"/>	
 	</estateLogo>	
 	</additionalFields>
 	</residential>
 	<!-- Current listing -->
-	<residential modTime="2020-06-26-04:36:43" status="current">
+	<residential modTime="2020-07-03-03:31:58" status="current">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1837</uniqueID>
 		<authority value="exclusive"/>
@@ -954,7 +843,7 @@
 - LOCAL BUILDER</description>
 		<features>
 			<bedrooms>4</bedrooms>
-			<bathrooms>2</bathrooms>
+			<bathrooms>2.0</bathrooms>
 			<garages>2</garages>
       		<remoteGarage>no</remoteGarage>
       		<secureParking>no</secureParking>
@@ -989,20 +878,20 @@
 		<externalLink href="http://www.qcoasthomes.com.au"/>		
 		<videoLink id="qcoast_1837_vid1" href=""/>
 		<objects>
-			<img id="m" modTime="2020-06-26-04:36:43" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage1837_Burleigh205(P)_Glhs335_.jpg" format="jpg"/>
-			<img id="a" modTime="2020-06-26-04:36:43" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1837_siting.jpg" format="jpg"/>	
-			<floorplan id="1" modTime="2020-06-26-04:36:43" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1837_fp1.jpg" format="jpg"/>
-			<document id="3" modTime="2020-06-26-04:36:43" title="Brochure" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1837.pdf" format="pdf"/>						
+			<img id="m" modTime="2020-07-03-03:31:58" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage1837_Burleigh205(P)_Glhs335_.jpg" format="jpg"/>
+			<img id="a" modTime="2020-07-03-03:31:58" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1837_siting.jpg" format="jpg"/>	
+			<floorplan id="1" modTime="2020-07-03-03:31:58" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1837_fp1.jpg" format="jpg"/>
+			<document id="3" modTime="2020-07-03-03:31:58" title="Brochure" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1837.pdf" format="pdf"/>						
 			
 		</objects>
 		<additionalFields>
 	<estateLogo>	
-		<img id="estate_logo" modTime="2020-06-26-04:36:43" url="http://qcoast.geosite.com.au/staging/packages/qcoast/" format="jpg"/>	
+		<img id="estate_logo" modTime="2020-07-03-03:31:58" url="http://qcoast.geosite.com.au/staging/packages/qcoast/" format="jpg"/>	
 	</estateLogo>	
 	</additionalFields>
 	</residential>
 	<!-- Current listing -->
-	<residential modTime="2020-06-26-04:36:43" status="current">
+	<residential modTime="2020-07-03-03:31:59" status="current">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1843</uniqueID>
 		<authority value="exclusive"/>
@@ -1065,7 +954,7 @@
 - LOCAL BUILDER</description>
 		<features>
 			<bedrooms>4</bedrooms>
-			<bathrooms>2</bathrooms>
+			<bathrooms>2.0</bathrooms>
 			<garages>2</garages>
       		<remoteGarage>no</remoteGarage>
       		<secureParking>no</secureParking>
@@ -1100,20 +989,20 @@
 		<externalLink href="http://www.qcoasthomes.com.au"/>		
 		<videoLink id="qcoast_1843_vid1" href=""/>
 		<objects>
-			<img id="m" modTime="2020-06-26-04:36:43" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage1843_Coolum214_LHS335_.jpg" format="jpg"/>
-			<img id="a" modTime="2020-06-26-04:36:43" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1843_siting.jpg" format="jpg"/>	
-			<floorplan id="1" modTime="2020-06-26-04:36:43" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1843_fp1.jpg" format="jpg"/>
-			<document id="3" modTime="2020-06-26-04:36:43" title="Brochure" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1843.pdf" format="pdf"/>						
+			<img id="m" modTime="2020-07-03-03:31:59" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage1843_Coolum214_LHS335_.jpg" format="jpg"/>
+			<img id="a" modTime="2020-07-03-03:31:59" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1843_siting.jpg" format="jpg"/>	
+			<floorplan id="1" modTime="2020-07-03-03:31:59" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1843_fp1.jpg" format="jpg"/>
+			<document id="3" modTime="2020-07-03-03:31:59" title="Brochure" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1843.pdf" format="pdf"/>						
 			
 		</objects>
 		<additionalFields>
 	<estateLogo>	
-		<img id="estate_logo" modTime="2020-06-26-04:36:43" url="http://qcoast.geosite.com.au/staging/packages/qcoast/" format="jpg"/>	
+		<img id="estate_logo" modTime="2020-07-03-03:31:59" url="http://qcoast.geosite.com.au/staging/packages/qcoast/" format="jpg"/>	
 	</estateLogo>	
 	</additionalFields>
 	</residential>
 	<!-- Current listing -->
-	<residential modTime="2020-06-26-04:36:43" status="current">
+	<residential modTime="2020-07-03-03:31:59" status="current">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1844</uniqueID>
 		<authority value="exclusive"/>
@@ -1176,7 +1065,7 @@
 - LOCAL BUILDER</description>
 		<features>
 			<bedrooms>4</bedrooms>
-			<bathrooms>2</bathrooms>
+			<bathrooms>2.0</bathrooms>
 			<garages>2</garages>
       		<remoteGarage>no</remoteGarage>
       		<secureParking>no</secureParking>
@@ -1211,20 +1100,20 @@
 		<externalLink href="http://www.qcoasthomes.com.au"/>		
 		<videoLink id="qcoast_1844_vid1" href=""/>
 		<objects>
-			<img id="m" modTime="2020-06-26-04:36:43" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage1844_Byron200(P)_335_.jpg" format="jpg"/>
-			<img id="a" modTime="2020-06-26-04:36:43" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1844_siting.jpg" format="jpg"/>	
-			<floorplan id="1" modTime="2020-06-26-04:36:43" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1844_fp1.jpg" format="jpg"/>
-			<document id="3" modTime="2020-06-26-04:36:43" title="Brochure" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1844.pdf" format="pdf"/>						
+			<img id="m" modTime="2020-07-03-03:31:59" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage1844_Byron200(P)_335_.jpg" format="jpg"/>
+			<img id="a" modTime="2020-07-03-03:31:59" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1844_siting.jpg" format="jpg"/>	
+			<floorplan id="1" modTime="2020-07-03-03:31:59" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1844_fp1.jpg" format="jpg"/>
+			<document id="3" modTime="2020-07-03-03:31:59" title="Brochure" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1844.pdf" format="pdf"/>						
 			
 		</objects>
 		<additionalFields>
 	<estateLogo>	
-		<img id="estate_logo" modTime="2020-06-26-04:36:43" url="http://qcoast.geosite.com.au/staging/packages/qcoast/" format="jpg"/>	
+		<img id="estate_logo" modTime="2020-07-03-03:31:59" url="http://qcoast.geosite.com.au/staging/packages/qcoast/" format="jpg"/>	
 	</estateLogo>	
 	</additionalFields>
 	</residential>
 	<!-- Current listing -->
-	<residential modTime="2020-06-26-04:36:43" status="current">
+	<residential modTime="2020-07-03-03:31:59" status="current">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1845</uniqueID>
 		<authority value="exclusive"/>
@@ -1287,7 +1176,7 @@
 - LOCAL BUILDER</description>
 		<features>
 			<bedrooms>4</bedrooms>
-			<bathrooms>2</bathrooms>
+			<bathrooms>2.0</bathrooms>
 			<garages>2</garages>
       		<remoteGarage>no</remoteGarage>
       		<secureParking>no</secureParking>
@@ -1322,2409 +1211,3058 @@
 		<externalLink href="http://www.qcoasthomes.com.au"/>		
 		<videoLink id="qcoast_1845_vid1" href=""/>
 		<objects>
-			<img id="m" modTime="2020-06-26-04:36:43" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage1845_AIRLIE173_335_.jpg" format="jpg"/>
-			<img id="a" modTime="2020-06-26-04:36:43" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1845_siting.jpg" format="jpg"/>	
-			<floorplan id="1" modTime="2020-06-26-04:36:43" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1845_fp1.jpg" format="jpg"/>
-			<document id="3" modTime="2020-06-26-04:36:43" title="Brochure" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1845.pdf" format="pdf"/>						
+			<img id="m" modTime="2020-07-03-03:31:59" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage1845_AIRLIE173_335_.jpg" format="jpg"/>
+			<img id="a" modTime="2020-07-03-03:31:59" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1845_siting.jpg" format="jpg"/>	
+			<floorplan id="1" modTime="2020-07-03-03:31:59" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1845_fp1.jpg" format="jpg"/>
+			<document id="3" modTime="2020-07-03-03:31:59" title="Brochure" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1845.pdf" format="pdf"/>						
 			
 		</objects>
 		<additionalFields>
 	<estateLogo>	
-		<img id="estate_logo" modTime="2020-06-26-04:36:43" url="http://qcoast.geosite.com.au/staging/packages/qcoast/" format="jpg"/>	
+		<img id="estate_logo" modTime="2020-07-03-03:31:59" url="http://qcoast.geosite.com.au/staging/packages/qcoast/" format="jpg"/>	
+	</estateLogo>	
+	</additionalFields>
+	</residential>
+	<!-- Current listing -->
+	<residential modTime="2020-07-03-03:32:00" status="current">
+		<agentID>qcoast</agentID>
+		<uniqueID>qcoast_1857</uniqueID>
+		<authority value="exclusive"/>
+		<underOffer value="no"/>
+        <newConstruction>1</newConstruction>
+        <isHomeLandPackage>1</isHomeLandPackage>    
+		<listingAgent>
+			<name></name>
+			<telephone type="BH"></telephone>
+			<email></email>			
+		</listingAgent>
+		<portals>
+			<includePortal>1</includePortal>
+		</portals>
+		<price display="yes">469319</price>
+		<priceView>$469,319</priceView>
+		<address display="yes">
+			<subNumber></subNumber>
+			<streetNumber>Lot 105</streetNumber>
+			<street>New Road The Banks</street>
+			<suburb display="yes">Logan River</suburb>
+			<state>QLD</state>
+			<postcode></postcode>
+			<country>AUS</country>
+		</address>
+		<municipality></municipality>
+		
+		<category name="House"/>
+		<headline>House &amp; Land - Lot 105 New Road The Banks - Bilinga 209</headline>
+		<description>
+
+- Full Turn key, Fixed Price, No Hidden Extras**
+- Facade:  Brick veneer, render (if applicable), with multiple materials
+- Driveway:  Exposed aggregate
+- Porch &amp; Alfresco: Tiles
+- Ceiling Insulation
+- Kitchen Bench &amp; Vanity Tops: Stone
+- Air Conditioning: Split system to living room and bedroom 1
+- Ceiling Fans: Living areas &amp; bedrooms
+- Outdoor Living Area: Under main roof
+- Lighting Package: LED Downlights to living areas, fluoros to kitchen, bathrooms &amp; garage
+- Appliances: 900mm Stainless steel incl. dishwasher
+- Hotwater: Rheem 26 Metro Gas HWS
+- Amplimesh Grille Security Screens: To sliding windows, hinged front door, laundry door, and sliding doors only (excludes garage doors, stacker doors &amp; bi-fold doors)
+- Wardrobes: Chrome mirror sliding to bedrooms (where specified), white vinyl sliders with aluminium frames to linen (where specified)
+- Tapware: CP Mixers &amp; hand showers
+- Internal Door Handles: Lever
+- Window Coverings: Vertical or roller blinds to windows and sliding doors, (excl wet areas)
+- Floor coverings: Tile &amp; carpet
+- Letterbox: Polytek
+- Clothesline: Wall mounted
+- Landscaping: Full package (excluding acreage blocks)
+- Termite Barrier: Reticulation system
+- Fencing: 1800mm high with returns to house &amp; gate (excluding acreage blocks)
+- House cleaned by a professional cleaning service
+- 25 year structural guarantee***
+- DIAMOND INCLUSIONS
+- BUILD CONTRACTS ISSUED IN 24HRS
+- 4 WEEK TIMEFRAME FROM FINANCE APPROVAL TO BA APPROVAL - subject to land registration
+- LOCAL BUILDER</description>
+		<features>
+			<bedrooms>4</bedrooms>
+			<bathrooms>2.0</bathrooms>
+			<garages>2</garages>
+      		<remoteGarage>no</remoteGarage>
+      		<secureParking>no</secureParking>
+			<airConditioning>0</airConditioning>
+			<alarmSystem>0</alarmSystem>
+			<vacuumSystem>no</vacuumSystem>
+			<intercom>no</intercom>
+      		<courtyard>no</courtyard>
+      		<outdoorEnt>no</outdoorEnt>
+      		<fullyFenced>no</fullyFenced>
+			<heating type="other"/>
+			<hotWaterService type="gas"/>
+			<otherFeatures>Full Turn key, Fixed Price, No Hidden Extras**,Facade:  Brick veneer, render (if applicable), with multiple materials,Driveway:  Exposed aggregate,Porch &amp; Alfresco: Tiles,Ceiling Insulation,Kitchen Bench &amp; Vanity Tops: Stone,Air Conditioning: Split system to living room and bedroom 1,Ceiling Fans: Living areas &amp; bedrooms,Outdoor Living Area: Under main roof,Lighting Package: LED Downlights to living areas, fluoros to kitchen, bathrooms &amp; garage,Appliances: 900mm Stainless steel incl. dishwasher,Hotwater: Rheem 26 Metro Gas HWS,Amplimesh Grille Security Screens: To sliding windows, hinged front door, laundry door, and sliding doors only (excludes garage doors, stacker doors &amp; bi-fold doors),Wardrobes: Chrome mirror sliding to bedrooms (where specified), white vinyl sliders with aluminium frames to linen (where specified),Tapware: CP Mixers &amp; hand showers,Internal Door Handles: Lever,Window Coverings: Vertical or roller blinds to windows and sliding doors, (excl wet areas),Floor coverings: Tile &amp; carpet,Letterbox: Polytek,Clothesline: Wall mounted,Landscaping: Full package (excluding acreage blocks),Termite Barrier: Reticulation system,Fencing: 1800mm high with returns to house &amp; gate (excluding acreage blocks),House cleaned by a professional cleaning service,25 year structural guarantee***,DIAMOND INCLUSIONS,BUILD CONTRACTS ISSUED IN 24HRS,4 WEEK TIMEFRAME FROM FINANCE APPROVAL TO BA APPROVAL - subject to land registration,LOCAL BUILDER</otherFeatures>
+		</features>
+		<landDetails>
+			<area unit="squareMeter">356.25</area>
+			<frontage unit="meter">12.50</frontage>
+			<depth unit="meter" side="rear">28.50</depth>
+			<crossOver value="left"/>
+		</landDetails>
+		<buildingDetails>
+			<name>Bilinga 209</name>
+			<area unit="squareMeter">209</area>
+			<newlyBuilt value="yes"/>
+                        <energyRating>6.0</energyRating>
+                </buildingDetails>
+		<vendorDetails>
+			<name></name>
+			<telephone type="BH"></telephone>
+			<telephone type="mobile"></telephone>
+		</vendorDetails>
+		<externalLink href="http://www.qcoasthomes.com.au"/>		
+		<videoLink id="qcoast_1857_vid1" href=""/>
+		<objects>
+			<img id="m" modTime="2020-07-03-03:32:00" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage1857_Bilinga209_335_.jpg" format="jpg"/>
+			<img id="a" modTime="2020-07-03-03:32:00" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1857_siting.jpg" format="jpg"/>	
+			<floorplan id="1" modTime="2020-07-03-03:32:00" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1857_fp1.jpg" format="jpg"/>
+			<document id="3" modTime="2020-07-03-03:32:00" title="Brochure" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1857.pdf" format="pdf"/>						
+			
+		</objects>
+		<additionalFields>
+	<estateLogo>	
+		<img id="estate_logo" modTime="2020-07-03-03:32:00" url="http://qcoast.geosite.com.au/staging/packages/qcoast/" format="jpg"/>	
+	</estateLogo>	
+	</additionalFields>
+	</residential>
+	<!-- Current listing -->
+	<residential modTime="2020-07-03-03:32:00" status="current">
+		<agentID>qcoast</agentID>
+		<uniqueID>qcoast_1858</uniqueID>
+		<authority value="exclusive"/>
+		<underOffer value="no"/>
+        <newConstruction>1</newConstruction>
+        <isHomeLandPackage>1</isHomeLandPackage>    
+		<listingAgent>
+			<name></name>
+			<telephone type="BH"></telephone>
+			<email></email>			
+		</listingAgent>
+		<portals>
+			<includePortal>1</includePortal>
+		</portals>
+		<price display="yes">470541</price>
+		<priceView>$470,541</priceView>
+		<address display="yes">
+			<subNumber></subNumber>
+			<streetNumber>Lot 105</streetNumber>
+			<street>New Road The Banks</street>
+			<suburb display="yes">Logan River</suburb>
+			<state>QLD</state>
+			<postcode></postcode>
+			<country>AUS</country>
+		</address>
+		<municipality></municipality>
+		
+		<category name="House"/>
+		<headline>House &amp; Land - Lot 105 New Road The Banks - Miami 218</headline>
+		<description>
+
+- Full Turn key, Fixed Price, No Hidden Extras**
+- Facade:  Brick veneer, render (if applicable), with multiple materials
+- Driveway:  Exposed aggregate
+- Porch &amp; Alfresco: Tiles
+- Ceiling Insulation
+- Kitchen Bench &amp; Vanity Tops: Stone
+- Air Conditioning: Split system to living room and bedroom 1
+- Ceiling Fans: Living areas &amp; bedrooms
+- Outdoor Living Area: Under main roof
+- Lighting Package: LED Downlights to living areas, fluoros to kitchen, bathrooms &amp; garage
+- Appliances: 900mm Stainless steel incl. dishwasher
+- Hotwater: Rheem 26 Metro Gas HWS
+- Amplimesh Grille Security Screens: To sliding windows, hinged front door, laundry door, and sliding doors only (excludes garage doors, stacker doors &amp; bi-fold doors)
+- Wardrobes: Chrome mirror sliding to bedrooms (where specified), white vinyl sliders with aluminium frames to linen (where specified)
+- Tapware: CP Mixers &amp; hand showers
+- Internal Door Handles: Lever
+- Window Coverings: Vertical or roller blinds to windows and sliding doors, (excl wet areas)
+- Floor coverings: Tile &amp; carpet
+- Letterbox: Polytek
+- Clothesline: Wall mounted
+- Landscaping: Full package (excluding acreage blocks)
+- Termite Barrier: Reticulation system
+- Fencing: 1800mm high with returns to house &amp; gate (excluding acreage blocks)
+- House cleaned by a professional cleaning service
+- 25 year structural guarantee***
+- DIAMOND INCLUSIONS
+- BUILD CONTRACTS ISSUED IN 24HRS
+- 4 WEEK TIMEFRAME FROM FINANCE APPROVAL TO BA APPROVAL - subject to land registration
+- LOCAL BUILDER</description>
+		<features>
+			<bedrooms>4</bedrooms>
+			<bathrooms>2.0</bathrooms>
+			<garages>2</garages>
+      		<remoteGarage>no</remoteGarage>
+      		<secureParking>no</secureParking>
+			<airConditioning>0</airConditioning>
+			<alarmSystem>0</alarmSystem>
+			<vacuumSystem>no</vacuumSystem>
+			<intercom>no</intercom>
+      		<courtyard>no</courtyard>
+      		<outdoorEnt>no</outdoorEnt>
+      		<fullyFenced>no</fullyFenced>
+			<heating type="other"/>
+			<hotWaterService type="gas"/>
+			<otherFeatures>Full Turn key, Fixed Price, No Hidden Extras**,Facade:  Brick veneer, render (if applicable), with multiple materials,Driveway:  Exposed aggregate,Porch &amp; Alfresco: Tiles,Ceiling Insulation,Kitchen Bench &amp; Vanity Tops: Stone,Air Conditioning: Split system to living room and bedroom 1,Ceiling Fans: Living areas &amp; bedrooms,Outdoor Living Area: Under main roof,Lighting Package: LED Downlights to living areas, fluoros to kitchen, bathrooms &amp; garage,Appliances: 900mm Stainless steel incl. dishwasher,Hotwater: Rheem 26 Metro Gas HWS,Amplimesh Grille Security Screens: To sliding windows, hinged front door, laundry door, and sliding doors only (excludes garage doors, stacker doors &amp; bi-fold doors),Wardrobes: Chrome mirror sliding to bedrooms (where specified), white vinyl sliders with aluminium frames to linen (where specified),Tapware: CP Mixers &amp; hand showers,Internal Door Handles: Lever,Window Coverings: Vertical or roller blinds to windows and sliding doors, (excl wet areas),Floor coverings: Tile &amp; carpet,Letterbox: Polytek,Clothesline: Wall mounted,Landscaping: Full package (excluding acreage blocks),Termite Barrier: Reticulation system,Fencing: 1800mm high with returns to house &amp; gate (excluding acreage blocks),House cleaned by a professional cleaning service,25 year structural guarantee***,DIAMOND INCLUSIONS,BUILD CONTRACTS ISSUED IN 24HRS,4 WEEK TIMEFRAME FROM FINANCE APPROVAL TO BA APPROVAL - subject to land registration,LOCAL BUILDER</otherFeatures>
+		</features>
+		<landDetails>
+			<area unit="squareMeter">356.25</area>
+			<frontage unit="meter">12.50</frontage>
+			<depth unit="meter" side="rear">28.50</depth>
+			<crossOver value="left"/>
+		</landDetails>
+		<buildingDetails>
+			<name>Miami 218</name>
+			<area unit="squareMeter">218</area>
+			<newlyBuilt value="yes"/>
+                        <energyRating>6.0</energyRating>
+                </buildingDetails>
+		<vendorDetails>
+			<name></name>
+			<telephone type="BH"></telephone>
+			<telephone type="mobile"></telephone>
+		</vendorDetails>
+		<externalLink href="http://www.qcoasthomes.com.au"/>		
+		<videoLink id="qcoast_1858_vid1" href=""/>
+		<objects>
+			<img id="m" modTime="2020-07-03-03:32:00" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage1858_Miami218_335_.jpg" format="jpg"/>
+			<img id="a" modTime="2020-07-03-03:32:00" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1858_siting.jpg" format="jpg"/>	
+			<floorplan id="1" modTime="2020-07-03-03:32:00" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1858_fp1.jpg" format="jpg"/>
+			<document id="3" modTime="2020-07-03-03:32:00" title="Brochure" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1858.pdf" format="pdf"/>						
+			
+		</objects>
+		<additionalFields>
+	<estateLogo>	
+		<img id="estate_logo" modTime="2020-07-03-03:32:00" url="http://qcoast.geosite.com.au/staging/packages/qcoast/" format="jpg"/>	
+	</estateLogo>	
+	</additionalFields>
+	</residential>
+	<!-- Current listing -->
+	<residential modTime="2020-07-03-03:32:01" status="current">
+		<agentID>qcoast</agentID>
+		<uniqueID>qcoast_1860</uniqueID>
+		<authority value="exclusive"/>
+		<underOffer value="no"/>
+        <newConstruction>1</newConstruction>
+        <isHomeLandPackage>1</isHomeLandPackage>    
+		<listingAgent>
+			<name></name>
+			<telephone type="BH"></telephone>
+			<email></email>			
+		</listingAgent>
+		<portals>
+			<includePortal>1</includePortal>
+		</portals>
+		<price display="yes">504388</price>
+		<priceView>$504,388</priceView>
+		<address display="yes">
+			<subNumber></subNumber>
+			<streetNumber>Lot 3</streetNumber>
+			<street>Lambretta Street Hillcrest</street>
+			<suburb display="yes">HILLCREST (4118)</suburb>
+			<state>QLD</state>
+			<postcode></postcode>
+			<country>AUS</country>
+		</address>
+		<municipality></municipality>
+		
+		<category name="House"/>
+		<headline>House &amp; Land - Lot 3 Lambretta Street Hillcrest - Fitzroy 215</headline>
+		<description>
+
+- Full Turn key, Fixed Price, No Hidden Extras**
+- Facade:  Brick veneer, render (if applicable), with multiple materials
+- Driveway:  Exposed aggregate
+- Porch &amp; Alfresco: Tiles
+- Ceiling Insulation
+- Kitchen Bench &amp; Vanity Tops: Stone
+- Air Conditioning: Split system to living room and bedroom 1
+- Ceiling Fans: Living areas &amp; bedrooms
+- Outdoor Living Area: Under main roof
+- Lighting Package: LED Downlights to living areas, fluoros to kitchen, bathrooms &amp; garage
+- Appliances: 900mm Stainless steel incl. dishwasher
+- Hotwater: Rheem 26 Metro Gas HWS
+- Amplimesh Grille Security Screens: To sliding windows, hinged front door, laundry door, and sliding doors only (excludes garage doors, stacker doors &amp; bi-fold doors)
+- Wardrobes: Chrome mirror sliding to bedrooms (where specified), white vinyl sliders with aluminium frames to linen (where specified)
+- Tapware: CP Mixers &amp; hand showers
+- Internal Door Handles: Lever
+- Window Coverings: Vertical or roller blinds to windows and sliding doors, (excl wet areas)
+- Floor coverings: Tile &amp; carpet
+- Letterbox: Polytek
+- Clothesline: Wall mounted
+- Landscaping: Full package (excluding acreage blocks)
+- Termite Barrier: Reticulation system
+- Fencing: 1800mm high with returns to house &amp; gate (excluding acreage blocks)
+- House cleaned by a professional cleaning service
+- 25 year structural guarantee***
+- DIAMOND INCLUSIONS
+- BUILD CONTRACTS ISSUED IN 24HRS
+- 4 WEEK TIMEFRAME FROM FINANCE APPROVAL TO BA APPROVAL - subject to land registration
+- LOCAL BUILDER</description>
+		<features>
+			<bedrooms>4</bedrooms>
+			<bathrooms>2.0</bathrooms>
+			<garages>2</garages>
+      		<remoteGarage>no</remoteGarage>
+      		<secureParking>no</secureParking>
+			<airConditioning>0</airConditioning>
+			<alarmSystem>0</alarmSystem>
+			<vacuumSystem>no</vacuumSystem>
+			<intercom>no</intercom>
+      		<courtyard>no</courtyard>
+      		<outdoorEnt>no</outdoorEnt>
+      		<fullyFenced>no</fullyFenced>
+			<heating type="other"/>
+			<hotWaterService type="gas"/>
+			<otherFeatures>Full Turn key, Fixed Price, No Hidden Extras**,Facade:  Brick veneer, render (if applicable), with multiple materials,Driveway:  Exposed aggregate,Porch &amp; Alfresco: Tiles,Ceiling Insulation,Kitchen Bench &amp; Vanity Tops: Stone,Air Conditioning: Split system to living room and bedroom 1,Ceiling Fans: Living areas &amp; bedrooms,Outdoor Living Area: Under main roof,Lighting Package: LED Downlights to living areas, fluoros to kitchen, bathrooms &amp; garage,Appliances: 900mm Stainless steel incl. dishwasher,Hotwater: Rheem 26 Metro Gas HWS,Amplimesh Grille Security Screens: To sliding windows, hinged front door, laundry door, and sliding doors only (excludes garage doors, stacker doors &amp; bi-fold doors),Wardrobes: Chrome mirror sliding to bedrooms (where specified), white vinyl sliders with aluminium frames to linen (where specified),Tapware: CP Mixers &amp; hand showers,Internal Door Handles: Lever,Window Coverings: Vertical or roller blinds to windows and sliding doors, (excl wet areas),Floor coverings: Tile &amp; carpet,Letterbox: Polytek,Clothesline: Wall mounted,Landscaping: Full package (excluding acreage blocks),Termite Barrier: Reticulation system,Fencing: 1800mm high with returns to house &amp; gate (excluding acreage blocks),House cleaned by a professional cleaning service,25 year structural guarantee***,DIAMOND INCLUSIONS,BUILD CONTRACTS ISSUED IN 24HRS,4 WEEK TIMEFRAME FROM FINANCE APPROVAL TO BA APPROVAL - subject to land registration,LOCAL BUILDER</otherFeatures>
+		</features>
+		<landDetails>
+			<area unit="squareMeter">400.80</area>
+			<frontage unit="meter">16.70</frontage>
+			<depth unit="meter" side="rear">24.00</depth>
+			<crossOver value="left"/>
+		</landDetails>
+		<buildingDetails>
+			<name>Fitzroy 215</name>
+			<area unit="squareMeter">215</area>
+			<newlyBuilt value="yes"/>
+                        <energyRating>6.0</energyRating>
+                </buildingDetails>
+		<vendorDetails>
+			<name></name>
+			<telephone type="BH"></telephone>
+			<telephone type="mobile"></telephone>
+		</vendorDetails>
+		<externalLink href="http://www.qcoasthomes.com.au"/>		
+		<videoLink id="qcoast_1860_vid1" href=""/>
+		<objects>
+			<img id="m" modTime="2020-07-03-03:32:01" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage1860_Fitzroy215_335_.jpg" format="jpg"/>
+			<img id="a" modTime="2020-07-03-03:32:01" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1860_siting.jpg" format="jpg"/>	
+			<floorplan id="1" modTime="2020-07-03-03:32:01" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1860_fp1.jpg" format="jpg"/>
+			<document id="3" modTime="2020-07-03-03:32:01" title="Brochure" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1860.pdf" format="pdf"/>						
+			
+		</objects>
+		<additionalFields>
+	<estateLogo>	
+		<img id="estate_logo" modTime="2020-07-03-03:32:01" url="http://qcoast.geosite.com.au/staging/packages/qcoast/" format="jpg"/>	
+	</estateLogo>	
+	</additionalFields>
+	</residential>
+	<!-- Current listing -->
+	<residential modTime="2020-07-03-03:32:02" status="current">
+		<agentID>qcoast</agentID>
+		<uniqueID>qcoast_1870</uniqueID>
+		<authority value="exclusive"/>
+		<underOffer value="no"/>
+        <newConstruction>1</newConstruction>
+        <isHomeLandPackage>1</isHomeLandPackage>    
+		<listingAgent>
+			<name></name>
+			<telephone type="BH"></telephone>
+			<email></email>			
+		</listingAgent>
+		<portals>
+			<includePortal>1</includePortal>
+		</portals>
+		<price display="yes">507913</price>
+		<priceView>$507,913</priceView>
+		<address display="yes">
+			<subNumber></subNumber>
+			<streetNumber>Lot 63</streetNumber>
+			<street>Lambretta Street Cova</street>
+			<suburb display="yes">HILLCREST (4118)</suburb>
+			<state>QLD</state>
+			<postcode></postcode>
+			<country>AUS</country>
+		</address>
+		<municipality></municipality>
+		
+		<category name="House"/>
+		<headline>House &amp; Land - Lot 63 Lambretta Street Cova - Miami 218</headline>
+		<description>
+
+- Full Turn key, Fixed Price, No Hidden Extras**
+- Facade:  Brick veneer, render (if applicable), with multiple materials
+- Driveway:  Exposed aggregate
+- Porch &amp; Alfresco: Tiles
+- Ceiling Insulation
+- Kitchen Bench &amp; Vanity Tops: Stone
+- Air Conditioning: Split system to living room and bedroom 1
+- Ceiling Fans: Living areas &amp; bedrooms
+- Outdoor Living Area: Under main roof
+- Lighting Package: LED Downlights to living areas, fluoros to kitchen, bathrooms &amp; garage
+- Appliances: 900mm Stainless steel incl. dishwasher
+- Hotwater: Rheem 26 Metro Gas HWS
+- Amplimesh Grille Security Screens: To sliding windows, hinged front door, laundry door, and sliding doors only (excludes garage doors, stacker doors &amp; bi-fold doors)
+- Wardrobes: Chrome mirror sliding to bedrooms (where specified), white vinyl sliders with aluminium frames to linen (where specified)
+- Tapware: CP Mixers &amp; hand showers
+- Internal Door Handles: Lever
+- Window Coverings: Vertical or roller blinds to windows and sliding doors, (excl wet areas)
+- Floor coverings: Tile &amp; carpet
+- Letterbox: Polytek
+- Clothesline: Wall mounted
+- Landscaping: Full package (excluding acreage blocks)
+- Termite Barrier: Reticulation system
+- Fencing: 1800mm high with returns to house &amp; gate (excluding acreage blocks)
+- House cleaned by a professional cleaning service
+- 25 year structural guarantee***
+- DIAMOND INCLUSIONS
+- BUILD CONTRACTS ISSUED IN 24HRS
+- 4 WEEK TIMEFRAME FROM FINANCE APPROVAL TO BA APPROVAL - subject to land registration
+- LOCAL BUILDER</description>
+		<features>
+			<bedrooms>4</bedrooms>
+			<bathrooms>2.0</bathrooms>
+			<garages>2</garages>
+      		<remoteGarage>no</remoteGarage>
+      		<secureParking>no</secureParking>
+			<airConditioning>0</airConditioning>
+			<alarmSystem>0</alarmSystem>
+			<vacuumSystem>no</vacuumSystem>
+			<intercom>no</intercom>
+      		<courtyard>no</courtyard>
+      		<outdoorEnt>no</outdoorEnt>
+      		<fullyFenced>no</fullyFenced>
+			<heating type="other"/>
+			<hotWaterService type="gas"/>
+			<otherFeatures>Full Turn key, Fixed Price, No Hidden Extras**,Facade:  Brick veneer, render (if applicable), with multiple materials,Driveway:  Exposed aggregate,Porch &amp; Alfresco: Tiles,Ceiling Insulation,Kitchen Bench &amp; Vanity Tops: Stone,Air Conditioning: Split system to living room and bedroom 1,Ceiling Fans: Living areas &amp; bedrooms,Outdoor Living Area: Under main roof,Lighting Package: LED Downlights to living areas, fluoros to kitchen, bathrooms &amp; garage,Appliances: 900mm Stainless steel incl. dishwasher,Hotwater: Rheem 26 Metro Gas HWS,Amplimesh Grille Security Screens: To sliding windows, hinged front door, laundry door, and sliding doors only (excludes garage doors, stacker doors &amp; bi-fold doors),Wardrobes: Chrome mirror sliding to bedrooms (where specified), white vinyl sliders with aluminium frames to linen (where specified),Tapware: CP Mixers &amp; hand showers,Internal Door Handles: Lever,Window Coverings: Vertical or roller blinds to windows and sliding doors, (excl wet areas),Floor coverings: Tile &amp; carpet,Letterbox: Polytek,Clothesline: Wall mounted,Landscaping: Full package (excluding acreage blocks),Termite Barrier: Reticulation system,Fencing: 1800mm high with returns to house &amp; gate (excluding acreage blocks),House cleaned by a professional cleaning service,25 year structural guarantee***,DIAMOND INCLUSIONS,BUILD CONTRACTS ISSUED IN 24HRS,4 WEEK TIMEFRAME FROM FINANCE APPROVAL TO BA APPROVAL - subject to land registration,LOCAL BUILDER</otherFeatures>
+		</features>
+		<landDetails>
+			<area unit="squareMeter">400.73</area>
+			<frontage unit="meter">14.30</frontage>
+			<depth unit="meter" side="rear">28.00</depth>
+			<crossOver value="left"/>
+		</landDetails>
+		<buildingDetails>
+			<name>Miami 218</name>
+			<area unit="squareMeter">218</area>
+			<newlyBuilt value="yes"/>
+                        <energyRating>6.0</energyRating>
+                </buildingDetails>
+		<vendorDetails>
+			<name></name>
+			<telephone type="BH"></telephone>
+			<telephone type="mobile"></telephone>
+		</vendorDetails>
+		<externalLink href="http://www.qcoasthomes.com.au"/>		
+		<videoLink id="qcoast_1870_vid1" href=""/>
+		<objects>
+			<img id="m" modTime="2020-07-03-03:32:02" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage1870_Miami218_335_.jpg" format="jpg"/>
+			<img id="a" modTime="2020-07-03-03:32:02" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1870_siting.jpg" format="jpg"/>	
+			<floorplan id="1" modTime="2020-07-03-03:32:02" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1870_fp1.jpg" format="jpg"/>
+			<document id="3" modTime="2020-07-03-03:32:02" title="Brochure" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1870.pdf" format="pdf"/>						
+			
+		</objects>
+		<additionalFields>
+	<estateLogo>	
+		<img id="estate_logo" modTime="2020-07-03-03:32:02" url="http://qcoast.geosite.com.au/staging/packages/qcoast/" format="jpg"/>	
+	</estateLogo>	
+	</additionalFields>
+	</residential>
+	<!-- Current listing -->
+	<residential modTime="2020-07-03-03:32:02" status="current">
+		<agentID>qcoast</agentID>
+		<uniqueID>qcoast_1871</uniqueID>
+		<authority value="exclusive"/>
+		<underOffer value="no"/>
+        <newConstruction>1</newConstruction>
+        <isHomeLandPackage>1</isHomeLandPackage>    
+		<listingAgent>
+			<name></name>
+			<telephone type="BH"></telephone>
+			<email></email>			
+		</listingAgent>
+		<portals>
+			<includePortal>1</includePortal>
+		</portals>
+		<price display="yes">511900</price>
+		<priceView>$511,900</priceView>
+		<address display="yes">
+			<subNumber></subNumber>
+			<streetNumber>Lot 63</streetNumber>
+			<street>Talbot Road Covella</street>
+			<suburb display="yes">GREENBANK (4124)</suburb>
+			<state>QLD</state>
+			<postcode></postcode>
+			<country>AUS</country>
+		</address>
+		<municipality></municipality>
+		
+		<category name="House"/>
+		<headline>House &amp; Land - Lot 63 Talbot Road Covella - Avoca 214</headline>
+		<description>
+
+- Full Turn key, Fixed Price, No Hidden Extras**
+- Facade:  Brick veneer, render (if applicable), with multiple materials
+- Driveway:  Exposed aggregate
+- Porch &amp; Alfresco: Tiles
+- Ceiling Insulation
+- Kitchen Bench &amp; Vanity Tops: Stone
+- Air Conditioning: Split system to living room and bedroom 1
+- Ceiling Fans: Living areas &amp; bedrooms
+- Outdoor Living Area: Under main roof
+- Lighting Package: LED Downlights to living areas, fluoros to kitchen, bathrooms &amp; garage
+- Appliances: 900mm Stainless steel incl. dishwasher
+- Hotwater: Rheem 26 Metro Gas HWS
+- Amplimesh Grille Security Screens: To sliding windows, hinged front door, laundry door, and sliding doors only (excludes garage doors, stacker doors &amp; bi-fold doors)
+- Wardrobes: Chrome mirror sliding to bedrooms (where specified), white vinyl sliders with aluminium frames to linen (where specified)
+- Tapware: CP Mixers &amp; hand showers
+- Internal Door Handles: Lever
+- Window Coverings: Vertical or roller blinds to windows and sliding doors, (excl wet areas)
+- Floor coverings: Tile &amp; carpet
+- Letterbox: Polytek
+- Clothesline: Wall mounted
+- Landscaping: Full package (excluding acreage blocks)
+- Termite Barrier: Reticulation system
+- Fencing: 1800mm high with returns to house &amp; gate (excluding acreage blocks)
+- House cleaned by a professional cleaning service
+- 25 year structural guarantee***
+- DIAMOND INCLUSIONS
+- BUILD CONTRACTS ISSUED IN 24HRS
+- 4 WEEK TIMEFRAME FROM FINANCE APPROVAL TO BA APPROVAL - subject to land registration
+- LOCAL BUILDER</description>
+		<features>
+			<bedrooms>4</bedrooms>
+			<bathrooms>2.0</bathrooms>
+			<garages>2</garages>
+      		<remoteGarage>no</remoteGarage>
+      		<secureParking>no</secureParking>
+			<airConditioning>0</airConditioning>
+			<alarmSystem>0</alarmSystem>
+			<vacuumSystem>no</vacuumSystem>
+			<intercom>no</intercom>
+      		<courtyard>no</courtyard>
+      		<outdoorEnt>no</outdoorEnt>
+      		<fullyFenced>no</fullyFenced>
+			<heating type="other"/>
+			<hotWaterService type="gas"/>
+			<otherFeatures>Full Turn key, Fixed Price, No Hidden Extras**,Facade:  Brick veneer, render (if applicable), with multiple materials,Driveway:  Exposed aggregate,Porch &amp; Alfresco: Tiles,Ceiling Insulation,Kitchen Bench &amp; Vanity Tops: Stone,Air Conditioning: Split system to living room and bedroom 1,Ceiling Fans: Living areas &amp; bedrooms,Outdoor Living Area: Under main roof,Lighting Package: LED Downlights to living areas, fluoros to kitchen, bathrooms &amp; garage,Appliances: 900mm Stainless steel incl. dishwasher,Hotwater: Rheem 26 Metro Gas HWS,Amplimesh Grille Security Screens: To sliding windows, hinged front door, laundry door, and sliding doors only (excludes garage doors, stacker doors &amp; bi-fold doors),Wardrobes: Chrome mirror sliding to bedrooms (where specified), white vinyl sliders with aluminium frames to linen (where specified),Tapware: CP Mixers &amp; hand showers,Internal Door Handles: Lever,Window Coverings: Vertical or roller blinds to windows and sliding doors, (excl wet areas),Floor coverings: Tile &amp; carpet,Letterbox: Polytek,Clothesline: Wall mounted,Landscaping: Full package (excluding acreage blocks),Termite Barrier: Reticulation system,Fencing: 1800mm high with returns to house &amp; gate (excluding acreage blocks),House cleaned by a professional cleaning service,25 year structural guarantee***,DIAMOND INCLUSIONS,BUILD CONTRACTS ISSUED IN 24HRS,4 WEEK TIMEFRAME FROM FINANCE APPROVAL TO BA APPROVAL - subject to land registration,LOCAL BUILDER</otherFeatures>
+		</features>
+		<landDetails>
+			<area unit="squareMeter">585.50</area>
+			<frontage unit="meter">15.04</frontage>
+			<depth unit="meter" side="rear">30.00</depth>
+			<crossOver value="left"/>
+		</landDetails>
+		<buildingDetails>
+			<name>Avoca 214</name>
+			<area unit="squareMeter">214</area>
+			<newlyBuilt value="yes"/>
+                        <energyRating>6.0</energyRating>
+                </buildingDetails>
+		<vendorDetails>
+			<name></name>
+			<telephone type="BH"></telephone>
+			<telephone type="mobile"></telephone>
+		</vendorDetails>
+		<externalLink href="http://www.qcoasthomes.com.au"/>		
+		<videoLink id="qcoast_1871_vid1" href=""/>
+		<objects>
+			<img id="m" modTime="2020-07-03-03:32:02" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage1871_AVOCA214_335_.jpg" format="jpg"/>
+			<img id="a" modTime="2020-07-03-03:32:02" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1871_siting.jpg" format="jpg"/>	
+			<floorplan id="1" modTime="2020-07-03-03:32:02" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1871_fp1.jpg" format="jpg"/>
+			<document id="3" modTime="2020-07-03-03:32:02" title="Brochure" url="http://qcoast.geosite.com.au/staging/packages/qcoast/GeoPackage_qcoast_1871.pdf" format="pdf"/>						
+			
+		</objects>
+		<additionalFields>
+	<estateLogo>	
+		<img id="estate_logo" modTime="2020-07-03-03:32:02" url="http://qcoast.geosite.com.au/staging/packages/qcoast/" format="jpg"/>	
 	</estateLogo>	
 	</additionalFields>
 	</residential>		
 	<!-- Sold listing -->
-	<residential modTime="2020-06-26-04:36:35" status="sold">
+	<residential modTime="2020-07-03-03:31:49" status="sold">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1765</uniqueID>
 		<soldDetails>
 			<price display="yes">500000.00</price>
-			<date>2020-06-26-04:36:35</date>
+			<date>2020-07-03-03:31:49</date>
 		</soldDetails>
 	</residential>		
 	<!-- Sold listing -->
-	<residential modTime="2020-06-26-04:36:35" status="sold">
+	<residential modTime="2020-07-03-03:31:49" status="sold">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1766</uniqueID>
 		<soldDetails>
 			<price display="yes">500000.00</price>
-			<date>2020-06-26-04:36:35</date>
+			<date>2020-07-03-03:31:49</date>
+		</soldDetails>
+	</residential>		
+	<!-- Sold listing -->
+	<residential modTime="2020-07-03-03:32:00" status="sold">
+		<agentID>qcoast</agentID>
+		<uniqueID>qcoast_1859</uniqueID>
+		<soldDetails>
+			<price display="yes">505436.00</price>
+			<date>2020-07-03-03:32:00</date>
 		</soldDetails>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:33" status="withdrawn">
+	<residential modTime="2020-07-03-03:30:59" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_517</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:33" status="withdrawn">
+	<residential modTime="2020-07-03-03:30:59" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_518</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:33" status="withdrawn">
+	<residential modTime="2020-07-03-03:30:59" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_521</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:33" status="withdrawn">
+	<residential modTime="2020-07-03-03:30:59" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_522</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:34" status="withdrawn">
+	<residential modTime="2020-07-03-03:30:59" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_523</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:34" status="withdrawn">
+	<residential modTime="2020-07-03-03:30:59" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_550</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:34" status="withdrawn">
+	<residential modTime="2020-07-03-03:30:59" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_551</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:34" status="withdrawn">
+	<residential modTime="2020-07-03-03:30:59" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_552</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:34" status="withdrawn">
+	<residential modTime="2020-07-03-03:30:59" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_553</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:34" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:00" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_554</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:35" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:00" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_555</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:35" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:00" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_556</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:35" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:00" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_557</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:37" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:00" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_562</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:37" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:00" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_566</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:37" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:00" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_567</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:38" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:00" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_574</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:38" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:00" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_576</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:38" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:00" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_653</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:39" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:01" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_654</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:39" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:01" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_655</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:39" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:01" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_656</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:39" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:01" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_657</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:39" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:01" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_658</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:39" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:01" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_664</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:40" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:01" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_687</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:40" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:01" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_703</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:40" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:01" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_751</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:40" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:01" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_767</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:40" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:02" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_773</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:41" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:02" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_800</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:41" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:02" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_818</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:41" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:02" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_819</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:41" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:02" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_820</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:41" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:02" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_829</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:41" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:02" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_830</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:41" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:02" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_854</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:42" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:02" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_861</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:42" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:02" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_873</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:42" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:03" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_876</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:42" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:03" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_907</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:42" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:03" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_917</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:43" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:03" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_920</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:43" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:03" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_921</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:43" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:03" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_941</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:43" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:03" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_970</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:43" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:03" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_993</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:43" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:03" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_999</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:44" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:03" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1063</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:44" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:04" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1096</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:44" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:04" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1098</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:44" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:04" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1120</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:44" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:04" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1133</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:44" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:04" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1157</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:45" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:04" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1159</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:45" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:04" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1162</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:45" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:04" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1163</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:45" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:04" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1164</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:45" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:04" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1165</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:45" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:05" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1166</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:45" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:05" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1167</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:46" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:05" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1172</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:46" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:05" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1183</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:46" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:05" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1189</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:46" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:05" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1193</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:46" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:05" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1197</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:47" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:05" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1211</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:47" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:05" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1212</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:47" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:05" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1217</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:47" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:06" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1221</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:47" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:06" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1223</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:47" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:06" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1238</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:47" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:06" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1239</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:48" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:06" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1244</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:48" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:06" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1245</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:48" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:06" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1246</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:48" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:06" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1247</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:48" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:06" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1248</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:49" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:06" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1249</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:49" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:06" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1255</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:49" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:07" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1258</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:49" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:07" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1259</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:49" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:07" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1260</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:50" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:07" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1261</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:50" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:07" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1262</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:50" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:07" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1263</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:50" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:07" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1264</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:51" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:07" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1265</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:51" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:07" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1266</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:51" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:08" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1279</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:51" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:08" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1280</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:51" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:08" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1282</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:52" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:08" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1283</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:52" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:08" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1284</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:52" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:08" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1286</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:52" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:08" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1287</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:52" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:08" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1288</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:52" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:08" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1289</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:52" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:08" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1292</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:53" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:09" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1293</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:53" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:09" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1294</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:53" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:09" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1295</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:53" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:09" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1297</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:53" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:09" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1298</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:53" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:09" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1299</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:54" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:09" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1300</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:54" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:09" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1301</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:54" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:09" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1302</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:54" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:09" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1303</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:54" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:10" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1304</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:55" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:10" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1305</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:55" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:10" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1306</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:55" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:10" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1307</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:55" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:10" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1310</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:55" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:10" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1311</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:55" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:10" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1312</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:55" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:10" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1314</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:55" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:10" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1315</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:56" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:11" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1318</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:56" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:11" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1319</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:56" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:11" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1320</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:56" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:11" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1321</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:56" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:11" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1322</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:56" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:11" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1323</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:57" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:11" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1324</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:57" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:11" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1325</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:57" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:12" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1326</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:57" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:12" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1327</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:57" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:12" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1328</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:57" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:12" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1329</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:57" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:12" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1330</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:58" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:13" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1331</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:58" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:13" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1332</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:58" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:13" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1341</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:58" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:13" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1357</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:58" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:13" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1358</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:59" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:13" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1359</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:59" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:13" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1360</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:59" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:13" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1361</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:59" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:14" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1362</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:59" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:14" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1363</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:35:59" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:14" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1376</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:00" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:14" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1377</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:00" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:14" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1386</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:00" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:14" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1388</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:00" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:14" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1389</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:00" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:14" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1390</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:00" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:15" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1391</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:01" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:15" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1392</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:01" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:15" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1394</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:01" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:15" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1395</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:01" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:15" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1396</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:01" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:15" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1397</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:01" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:15" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1398</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:02" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:16" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1403</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:02" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:16" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1404</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:02" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:16" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1405</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:02" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:16" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1406</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:03" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:16" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1407</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:03" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:16" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1408</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:03" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:16" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1409</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:03" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:16" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1410</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:03" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:17" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1411</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:03" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:17" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1412</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:03" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:17" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1413</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:03" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:17" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1414</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:03" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:17" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1415</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:04" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:17" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1416</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:04" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:17" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1417</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:04" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:17" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1418</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:04" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:18" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1419</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:04" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:18" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1420</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:04" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:18" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1421</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:04" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:18" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1422</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:04" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:18" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1423</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:04" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:18" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1424</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:05" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:18" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1429</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:05" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:18" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1435</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:05" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:19" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1436</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:05" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:19" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1440</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:05" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:19" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1441</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:05" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:19" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1454</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:05" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:19" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1455</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:05" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:19" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1456</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:05" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:19" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1457</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:06" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:19" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1458</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:06" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:20" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1459</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:06" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:20" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1460</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:06" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:20" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1461</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:06" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:20" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1462</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:06" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:20" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1463</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:06" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:20" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1464</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:06" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:20" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1465</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:06" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:20" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1466</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:07" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:21" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1467</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:07" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:21" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1468</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:07" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:21" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1469</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:07" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:21" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1476</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:07" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:21" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1478</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:07" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:21" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1479</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:07" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:21" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1480</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:08" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:22" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1486</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:08" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:22" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1487</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:08" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:22" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1488</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:08" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:22" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1489</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:08" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:22" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1490</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:09" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:22" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1491</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:09" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:23" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1492</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:09" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:23" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1498</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:09" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:23" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1499</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:09" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:23" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1500</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:09" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:23" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1501</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:09" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:23" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1502</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:09" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:23" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1503</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:10" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:23" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1504</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:10" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:24" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1505</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:10" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:24" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1506</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:10" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:24" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1507</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:10" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:24" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1508</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:10" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:24" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1509</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:10" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:24" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1510</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:10" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:24" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1511</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:11" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:25" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1512</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:11" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:25" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1513</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:11" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:25" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1516</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:11" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:25" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1517</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:11" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:25" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1518</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:11" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:26" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1521</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:11" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:26" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1526</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:11" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:26" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1527</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:12" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:26" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1528</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:12" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:26" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1529</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:12" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:26" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1530</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:12" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:27" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1534</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:12" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:27" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1537</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:12" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:27" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1543</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:12" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:27" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1567</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:12" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:27" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1568</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:12" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:27" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1569</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:13" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:27" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1570</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:13" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:27" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1571</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:13" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:28" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1572</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:13" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:28" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1573</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:13" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:28" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1574</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:13" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:28" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1575</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:13" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:28" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1579</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:13" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:28" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1580</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:13" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:28" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1581</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:14" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:28" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1582</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:14" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:29" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1583</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:14" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:29" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1584</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:14" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:29" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1585</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:14" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:29" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1586</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:15" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:29" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1587</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:15" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:29" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1588</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:15" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:29" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1589</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:15" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:30" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1591</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:15" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:30" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1592</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:15" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:30" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1593</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:15" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:30" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1594</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:15" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:30" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1595</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:16" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:30" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1596</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:16" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:30" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1597</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:16" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:30" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1598</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:16" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:30" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1599</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:16" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:31" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1601</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:16" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:31" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1602</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:16" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:31" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1603</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:16" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:31" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1604</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:17" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:31" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1605</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:17" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:31" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1606</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:17" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:31" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1607</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:17" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:31" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1608</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:17" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:32" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1609</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:17" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:32" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1611</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:17" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:32" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1615</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:17" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:32" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1619</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:17" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:32" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1620</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:18" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:32" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1621</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:18" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:32" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1622</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:18" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:32" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1623</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:18" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:33" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1624</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:18" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:33" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1625</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:18" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:33" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1626</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:18" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:33" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1627</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:18" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:33" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1628</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:19" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:33" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1629</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:19" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:33" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1630</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:19" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:33" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1631</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:19" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:33" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1632</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:19" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:34" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1633</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:19" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:34" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1634</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:19" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:34" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1635</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:19" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:34" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1636</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:20" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:34" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1637</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:20" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:35" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1638</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:20" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:35" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1639</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:20" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:35" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1640</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:20" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:35" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1641</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:20" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:35" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1642</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:20" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:35" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1643</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:20" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:35" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1644</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:20" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:35" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1645</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:21" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:36" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1646</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:21" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:36" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1647</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:21" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:36" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1648</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:21" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:36" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1649</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:21" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:36" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1650</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:21" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:36" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1651</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:21" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:36" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1652</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:21" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:36" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1653</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:21" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:36" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1654</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:22" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:36" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1655</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:22" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:37" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1656</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:22" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:37" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1657</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:22" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:37" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1658</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:22" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:37" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1659</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:22" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:37" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1660</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:22" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:37" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1661</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:22" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:37" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1662</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:22" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:37" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1664</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:23" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:37" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1665</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:23" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:38" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1666</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:23" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:38" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1667</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:23" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:38" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1668</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:23" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:38" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1669</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:23" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:38" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1670</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:23" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:38" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1671</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:23" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:38" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1672</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:23" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:38" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1673</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:24" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:38" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1674</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:24" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:38" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1675</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:24" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:39" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1676</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:24" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:39" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1677</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:24" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:39" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1678</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:24" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:39" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1679</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:24" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:39" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1680</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:24" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:39" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1681</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:24" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:39" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1682</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:25" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:39" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1683</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:25" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:39" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1684</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:25" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:39" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1685</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:25" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:39" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1686</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:25" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:40" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1687</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:25" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:40" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1688</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:25" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:40" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1689</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:25" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:40" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1690</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:25" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:40" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1691</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:26" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:40" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1692</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:26" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:40" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1693</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:26" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:40" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1694</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:26" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:40" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1695</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:26" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:40" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1696</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:26" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:41" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1697</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:27" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:41" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1698</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:27" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:41" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1699</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:27" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:41" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1700</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:27" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:41" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1701</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:27" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:41" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1702</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:27" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:41" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1703</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:27" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:41" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1704</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:28" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:41" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1705</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:28" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:41" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1706</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:28" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:42" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1707</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:28" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:42" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1708</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:28" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:42" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1709</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:28" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:42" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1710</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:28" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:42" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1711</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:28" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:42" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1712</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:29" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:42" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1713</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:29" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:42" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1714</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:29" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:42" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1715</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:29" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:43" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1716</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:29" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:43" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1717</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:29" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:43" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1718</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:30" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:43" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1719</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:30" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:43" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1720</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:30" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:43" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1721</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:30" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:43" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1722</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:30" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:43" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1723</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:30" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:43" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1724</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:31" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:43" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1725</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:31" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:44" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1726</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:31" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:44" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1727</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:31" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:44" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1728</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:31" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:44" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1729</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:31" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:44" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1730</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:31" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:44" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1731</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:31" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:44" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1732</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:31" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:44" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1733</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:32" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:44" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1734</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:32" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:44" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1735</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:32" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:45" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1736</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:32" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:45" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1737</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:32" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:45" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1738</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:32" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:45" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1739</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:32" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:45" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1740</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:33" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:45" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1742</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:33" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:45" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1743</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:33" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:45" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1744</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:33" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:45" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1745</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:33" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:46" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1746</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:33" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:46" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1747</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:33" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:46" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1748</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:33" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:46" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1749</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:33" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:46" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1750</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:34" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:46" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1751</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:34" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:46" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1753</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:34" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:46" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1755</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:34" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:47" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1756</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:34" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:47" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1758</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:34" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:47" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1759</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:34" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:48" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1760</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:34" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:48" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1761</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:35" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:48" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1762</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:35" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:49" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1763</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:35" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:49" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1764</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:35" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:49" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1767</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:35" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:49" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1768</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:35" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:49" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1769</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:36" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:49" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1770</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:36" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:50" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1771</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:36" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:50" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1772</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:36" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:50" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1773</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:36" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:50" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1775</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:36" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:51" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1776</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:36" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:51" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1777</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:36" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:51" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1778</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:36" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:51" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1779</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:36" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:51" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1780</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:37" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:51" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1781</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:37" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:52" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1784</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:37" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:52" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1785</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:37" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:52" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1790</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:37" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:52" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1791</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:37" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:52" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1792</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:37" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:52" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1793</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:37" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:52" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1794</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:37" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:52" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1795</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:38" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:53" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1796</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:38" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:53" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1797</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:38" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:53" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1798</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:38" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:53" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1799</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:38" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:53" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1800</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:38" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:53" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1801</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:38" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:53" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1802</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:38" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:54" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1803</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:38" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:54" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1804</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:39" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:54" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1805</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:39" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:54" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1806</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:39" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:54" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1807</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:39" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:54" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1808</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:39" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:54" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1809</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:39" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:54" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1810</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:39" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:54" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1811</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:40" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:55" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1814</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:41" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:55" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1815</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:41" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:55" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1816</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:41" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:55" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1817</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:41" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:55" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1818</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:41" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:55" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1819</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:41" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:56" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1820</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:41" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:56" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1822</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:41" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:56" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1823</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:42" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:56" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1826</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:42" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:56" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1827</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:42" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:56" status="withdrawn">
+		<agentID>qcoast</agentID>
+		<uniqueID>qcoast_1831</uniqueID>
+	</residential>			
+	<!-- Deleted listing -->
+	<residential modTime="2020-07-03-03:31:57" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1832</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:42" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:57" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1833</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:42" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:57" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1834</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:42" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:57" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1835</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:43" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:58" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1838</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:43" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:58" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1839</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:43" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:58" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1840</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:43" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:58" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1841</uniqueID>
 	</residential>			
 	<!-- Deleted listing -->
-	<residential modTime="2020-06-26-04:36:43" status="withdrawn">
+	<residential modTime="2020-07-03-03:31:59" status="withdrawn">
 		<agentID>qcoast</agentID>
 		<uniqueID>qcoast_1842</uniqueID>
+	</residential>			
+	<!-- Deleted listing -->
+	<residential modTime="2020-07-03-03:31:59" status="withdrawn">
+		<agentID>qcoast</agentID>
+		<uniqueID>qcoast_1846</uniqueID>
+	</residential>			
+	<!-- Deleted listing -->
+	<residential modTime="2020-07-03-03:31:59" status="withdrawn">
+		<agentID>qcoast</agentID>
+		<uniqueID>qcoast_1847</uniqueID>
+	</residential>			
+	<!-- Deleted listing -->
+	<residential modTime="2020-07-03-03:32:00" status="withdrawn">
+		<agentID>qcoast</agentID>
+		<uniqueID>qcoast_1848</uniqueID>
+	</residential>			
+	<!-- Deleted listing -->
+	<residential modTime="2020-07-03-03:32:00" status="withdrawn">
+		<agentID>qcoast</agentID>
+		<uniqueID>qcoast_1853</uniqueID>
+	</residential>			
+	<!-- Deleted listing -->
+	<residential modTime="2020-07-03-03:32:00" status="withdrawn">
+		<agentID>qcoast</agentID>
+		<uniqueID>qcoast_1854</uniqueID>
+	</residential>			
+	<!-- Deleted listing -->
+	<residential modTime="2020-07-03-03:32:00" status="withdrawn">
+		<agentID>qcoast</agentID>
+		<uniqueID>qcoast_1855</uniqueID>
+	</residential>			
+	<!-- Deleted listing -->
+	<residential modTime="2020-07-03-03:32:00" status="withdrawn">
+		<agentID>qcoast</agentID>
+		<uniqueID>qcoast_1856</uniqueID>
+	</residential>			
+	<!-- Deleted listing -->
+	<residential modTime="2020-07-03-03:32:01" status="withdrawn">
+		<agentID>qcoast</agentID>
+		<uniqueID>qcoast_1861</uniqueID>
+	</residential>			
+	<!-- Deleted listing -->
+	<residential modTime="2020-07-03-03:32:01" status="withdrawn">
+		<agentID>qcoast</agentID>
+		<uniqueID>qcoast_1862</uniqueID>
+	</residential>			
+	<!-- Deleted listing -->
+	<residential modTime="2020-07-03-03:32:01" status="withdrawn">
+		<agentID>qcoast</agentID>
+		<uniqueID>qcoast_1863</uniqueID>
+	</residential>			
+	<!-- Deleted listing -->
+	<residential modTime="2020-07-03-03:32:01" status="withdrawn">
+		<agentID>qcoast</agentID>
+		<uniqueID>qcoast_1864</uniqueID>
+	</residential>			
+	<!-- Deleted listing -->
+	<residential modTime="2020-07-03-03:32:01" status="withdrawn">
+		<agentID>qcoast</agentID>
+		<uniqueID>qcoast_1865</uniqueID>
+	</residential>			
+	<!-- Deleted listing -->
+	<residential modTime="2020-07-03-03:32:01" status="withdrawn">
+		<agentID>qcoast</agentID>
+		<uniqueID>qcoast_1866</uniqueID>
+	</residential>			
+	<!-- Deleted listing -->
+	<residential modTime="2020-07-03-03:32:02" status="withdrawn">
+		<agentID>qcoast</agentID>
+		<uniqueID>qcoast_1867</uniqueID>
+	</residential>			
+	<!-- Deleted listing -->
+	<residential modTime="2020-07-03-03:32:02" status="withdrawn">
+		<agentID>qcoast</agentID>
+		<uniqueID>qcoast_1868</uniqueID>
+	</residential>			
+	<!-- Deleted listing -->
+	<residential modTime="2020-07-03-03:32:02" status="withdrawn">
+		<agentID>qcoast</agentID>
+		<uniqueID>qcoast_1869</uniqueID>
 	</residential>
 </propertyList>
